@@ -5,8 +5,8 @@
 This data analytics project uses Python version 3.9.18 programming environment with Jupyter Notebook. <br>
 
 The project file is 'Project2.ipynb' stored in the 'Project2' folder<br>
-The various source data is stored in 'Project2/Data' folder in CSV, XLS or TXT format<br>
-The fused and exported composite datasets are stored in 'Project2/Export' folder in CSV and JSON format<br>
+The various source data is stored in 'Project2/Data/' folder in CSV, XLS or TXT format<br>
+The fused and exported composite datasets are stored in 'Project2/Export/' folder in CSV and JSON format<br>
 
 ## Python modules used:<br>
 + Pandas version: 2.0.3<br>
