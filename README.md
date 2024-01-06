@@ -11,7 +11,7 @@ The fused and exported composite datasets are stored in 'Project2/Export/' folde
 ## Python modules used:<br>
 + Pandas version: 2.0.3<br>
 + Matplotlib version: 3.8.2<br>
-+ Seaborn version: 0.12.2<br>
++ Seaborn version: 0.13.1<br>
 + NumPy version: 1.24.3<br>
 + statsmodels 0.14.1 Stable <br>
 
