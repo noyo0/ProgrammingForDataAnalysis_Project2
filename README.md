@@ -1,6 +1,6 @@
-# An analysis of paleo-present climate data - Project 2 for Programming For Data Analysis
+# Programming for Data Analysis<br>
 
-# Programming for Data Analysis - Project2<br>
+# Project 2 -Programming for Data Analysis - An analysis of paleo-present climate data
 
 This data analytics project uses Python version 3.9.18 programming environment with Jupyter Notebook. <br>
 
