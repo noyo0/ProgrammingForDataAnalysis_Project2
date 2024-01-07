@@ -14,6 +14,7 @@ The fused and exported composite datasets are stored in 'Project2/Export/' folde
 + Seaborn version: 0.13.1<br>
 + NumPy version: 1.24.3<br>
 + statsmodels 0.14.1 Stable <br>
++ sklearn 1.3.0
 
 
 ## Python Installation & Setup Guides<br>
@@ -28,3 +29,4 @@ Jupyter Notebook installation guide: https://jupyter.org/install<br>
 >About seaborn: https://seaborn.pydata.org/<br>
 >About NumPy: https://numpy.org/<br>
 >About statsmodels: https://www.statsmodels.org/stable/index.html <br>
+>About sklearn: https://scikit-learn.org/stable/ <br>
